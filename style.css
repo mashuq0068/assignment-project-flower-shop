@@ -13,7 +13,7 @@ font-family: 'Open Sans', sans-serif;
    display: flex;
    align-items: center;
   justify-content: center;
-  gap: 105px;
+  gap:105px;
 
   
 
@@ -22,10 +22,10 @@ font-family: 'Open Sans', sans-serif;
    height: 417px;
    width: 365px;
 }
-.header-pragraph{
+.header-paragraph{
    margin-top: 30px;
    font-size: 12px;
-   font-weight: 300;
+   font-weight: 400;
 }
 .btn{
    margin-top: 15px;
@@ -41,3 +41,71 @@ font-family: 'Open Sans', sans-serif;
 
    
 }
+.flower-featured-container{
+   margin-top: 80px;
+}
+.flower-featured-text{
+   display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+.flower-featured-paragraph{
+  text-align: center;
+  font-size: 12px;
+  font-weight: 400;
+}
+.flower-featured-picture{
+   display: flex;
+   justify-content: center;
+  width: 70%;
+  gap: 10px;
+  margin-top: 20px;
+  text-align: center;
+  margin: auto;
+   
+}
+.img-flower-featured{
+   height: 190px;
+   width: 140px;
+       
+}
+.img-two{
+   height: 190px;
+   width: 160px;
+}
+.flower-featured-pic-one{
+   border-radius: 300px 300px 0px 0px;
+background: rgba(167, 33, 98, 0.15);
+padding: 35px;
+padding-bottom: 0px;
+}
+.flower-featured-pic-two{
+   border-radius: 300px 300px 0px 0px;
+background: rgba(5, 151, 160, 0.15);
+padding:35px 25px 0px 25px;
+
+}
+.flower-featured-pic-three{
+   border-radius: 300px 300px 0px 0px;
+background: rgba(71, 125, 17, 0.15);
+padding: 35px;
+padding-bottom: 0px;
+}
+.flower-featured-picture{
+   margin-top: 40px;
+}
+.pink-flower{
+   text-align: center;
+   margin-top: 30px;
+   margin-bottom: -40px;
+   font-size: 12px;
+   font-weight: 600;
+   text-decoration: underline;
+ 
+}
+
+   
+   
+
