@@ -10,8 +10,8 @@ font-family: 'Open Sans', sans-serif;
    background-color: rgba(229, 84, 115, 0.10);
 }
 .header-container{
-   display: flex;
-   align-items: center;
+  display: flex;
+  align-items: center;
   justify-content: center;
   gap:105px;
 
@@ -45,7 +45,7 @@ font-family: 'Open Sans', sans-serif;
    margin-top: 80px;
 }
 .flower-featured-text{
-   display: flex;
+  display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
@@ -59,11 +59,11 @@ font-family: 'Open Sans', sans-serif;
 .flower-featured-picture{
    display: flex;
    justify-content: center;
-  width: 70%;
-  gap: 10px;
-  margin-top: 20px;
-  text-align: center;
-  margin: auto;
+   width: 70%;
+   gap: 10px;
+   margin-top: 20px;
+   text-align: center;
+   margin: auto;
    
 }
 .img-flower-featured{
@@ -77,21 +77,21 @@ font-family: 'Open Sans', sans-serif;
 }
 .flower-featured-pic-one{
    border-radius: 300px 300px 0px 0px;
-background: rgba(167, 33, 98, 0.15);
-padding: 35px;
-padding-bottom: 0px;
+   background: rgba(167, 33, 98, 0.15);
+   padding: 35px;
+   padding-bottom: 0px;
 }
 .flower-featured-pic-two{
    border-radius: 300px 300px 0px 0px;
-background: rgba(5, 151, 160, 0.15);
-padding:35px 25px 0px 25px;
+   background: rgba(5, 151, 160, 0.15);
+   padding:35px 25px 0px 25px;
 
 }
 .flower-featured-pic-three{
    border-radius: 300px 300px 0px 0px;
-background: rgba(71, 125, 17, 0.15);
-padding: 35px;
-padding-bottom: 0px;
+   background: rgba(71, 125, 17, 0.15);
+   padding: 35px;
+   padding-bottom: 0px;
 }
 .flower-featured-picture{
    margin-top: 40px;
@@ -113,10 +113,10 @@ padding-bottom: 0px;
    gap:105px;
    padding: 30px;
    border-radius: 8px;
-background: rgba(39, 39, 39, 0.05);
-margin-top:105px;
-width: 70%;
-margin-left:140px;
+   background: rgba(39, 39, 39, 0.05);
+   margin-top:105px;
+   width: 70%;
+   margin-left:140px;
 
 
    
@@ -145,6 +145,38 @@ margin-left:140px;
 .text-free-support{
    margin-left:-10px;
 
+}
+.hot-deal-off-container{
+   margin-top:75px;
+   border-radius: 8px;
+   background: rgba(229, 84, 115, 0.05);
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   height: 60vh;
+   gap:130px;
+}
+.img-hot-deal-off{
+   height:200px;
+   width:150px;
+}
+.hot-deal-off-paragraph{
+   font-size:0.7rem;
+   font-weight:1rem;
+   text-align: center;
+   margin-top:20px;
+}
+.btn{
+   text-align: center;
+   
+}
+.hot-deal-off-title{
+   text-align: center;
+
+}
+.btn-another-primary{
+   padding: 10px 20px;
+  margin-top:20px;
 }
 
    
