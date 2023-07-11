@@ -27,7 +27,7 @@ font-family: 'Open Sans', sans-serif;
    font-size: 0.7rem;
    font-weight: 1.5rem;
 }
-.btn{
+.btn-header{
    margin-top: 15px;
 }
 .btn-primary{
@@ -204,6 +204,61 @@ font-family: 'Open Sans', sans-serif;
    font-weight:1rem;
    margin-top:30px;
 }
+.leatest-deals-picture-container{
+  margin-left:160px;
+  margin-top: 0px;
+   
+  
+   
+ 
+}
+.leatest-deals-img{
+   height:50vh;
+   width: 90%;
+}
+
+
+
+.leatest-deals-title{
+   text-align: center;
+}
+.leatest-deals-info{
+   text-align: center;
+   margin-top:10px;
+   font-size:0.7rem;
+   font-weight:1.5rem;
+}
+.leatest-deals-form{
+   text-align: center;
+   margin-top:55px;
+}
+.leatest-deals-text-container{
+   position: relative;
+   top: 180px;
+   left: 20px;
+  
+}
+input[type="text"]{
+   padding: 3px 190px 3px 5px;
+   border-radius:4px;
+   background-color: #FFF;
+   border: none;
+}
+::placeholder{
+   font-size:0.5rem;
+   font-weight:600;
+}
+input[type="submit"]{
+   border-radius: 4px;
+   background: #E55473;
+   padding:8px 15px;
+   border: none;
+   color: #FFF;
+   font-size:0.7rem;
+   font-weight: 510;
+}
+
+
 
 
    
