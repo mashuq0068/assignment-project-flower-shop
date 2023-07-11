@@ -188,7 +188,7 @@ font-family: 'Open Sans', sans-serif;
    gap:10px;
    justify-content:center;
    width: 70%;
-   margin-left:190px;
+   margin-left:160px;
    border-radius: 5px;
    margin-top:40px;
 }
@@ -205,7 +205,7 @@ font-family: 'Open Sans', sans-serif;
    margin-top:30px;
 }
 .leatest-deals-picture-container{
-  margin-left:160px;
+  margin-left:130px;
   margin-top: 0px;
    
   
@@ -263,13 +263,18 @@ input[type="submit"]{
    margin-top:80px;
    background: rgba(229, 84, 115, 0.05);
    height:40vh ;
-   width:77%;
-   margin-left:155px;
+   width:80%;
+   margin-left:125px;
    border-radius:10px;
 }
 .feedback-title{
    text-align: center;
    padding-top:35px;
+   color: green;
+  
+}
+.feedback-span{
+   color: #E55473;
 }
 input[type="text"]{
    padding:10px 190px 10px 10px;
@@ -294,7 +299,36 @@ input[type="text"]{
 input[type="text"]::placeholder{
    color:white;
    font-weight: 510;
+   color: rgba(255, 255, 255, 0.40)
 }
+.footer-container{
+   height:40vh;
+   margin-top:90px;
+   background-color: #111010;
+   padding-top:55px;
+}
+.footer-title{
+   text-align: center;
+   color: rgba(255, 255, 255, 0.90); 
+}
+.flower{
+   color: #E55473;
+}
+.footer-paragraph{
+   text-align: center;
+   color: rgba(255, 255, 255, 0.90);
+   margin-top:25px;
+   font-size:0.7rem;
+   font-weight:1.5rem;
+}
+.footer-info{
+  text-align: center;
+  font-size:0.5rem;
+  font-weight: 510;
+  margin-top:25px;
+  color: rgba(255, 255, 255, 0.40); 
+}
+
 
 
 
