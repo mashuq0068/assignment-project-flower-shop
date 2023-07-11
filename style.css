@@ -24,8 +24,8 @@ font-family: 'Open Sans', sans-serif;
 }
 .header-paragraph{
    margin-top: 30px;
-   font-size: 12px;
-   font-weight: 400;
+   font-size: 0.7rem;
+   font-weight: 1.5rem;
 }
 .btn{
    margin-top: 15px;
@@ -53,8 +53,8 @@ font-family: 'Open Sans', sans-serif;
 }
 .flower-featured-paragraph{
   text-align: center;
-  font-size: 12px;
-  font-weight: 400;
+  font-size: 0.7rem;
+  font-weight: 1.5rem;
 }
 .flower-featured-picture{
    display: flex;
@@ -104,6 +104,47 @@ padding-bottom: 0px;
    font-weight: 600;
    text-decoration: underline;
  
+}
+.extra-services-container{
+   margin-top:205px;
+  
+   display:flex;
+   justify-content: center;
+   gap:105px;
+   padding: 30px;
+   border-radius: 8px;
+background: rgba(39, 39, 39, 0.05);
+margin-top:105px;
+width: 70%;
+margin-left:140px;
+
+
+   
+}
+.img-extra-services{
+   height: 40px;
+   width: 40px;
+}
+.text-extra-deliveries{
+   font-size:0.7rem;
+   font-weight:510;
+   margin-top: 20px;
+   text-align: center;
+   
+  
+   
+  
+}
+.text-free-delivery{
+   margin-left: -45px;
+}
+.text-fresh-flowers{
+   margin-left: -30px;
+}
+
+.text-free-support{
+   margin-left:-10px;
+
 }
 
    
