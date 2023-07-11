@@ -115,9 +115,9 @@ font-family: 'Open Sans', sans-serif;
    padding: 30px;
    border-radius: 8px;
    background: rgba(39, 39, 39, 0.05);
-   margin-top:105px;
+   margin-top:115px;
    width: 70%;
-   margin-left:140px;
+   margin-left:160px;
 
 
    
@@ -188,7 +188,7 @@ font-family: 'Open Sans', sans-serif;
    gap:10px;
    justify-content:center;
    width: 70%;
-   margin-left:160px;
+   margin-left:190px;
    border-radius: 5px;
    margin-top:40px;
 }
@@ -263,7 +263,7 @@ input[type="submit"]{
    margin-top:80px;
    background: rgba(229, 84, 115, 0.05);
    height:40vh ;
-   width:80%;
+   width:90%;
    margin-left:125px;
    border-radius:10px;
 }
