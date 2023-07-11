@@ -56,10 +56,10 @@ font-family: 'Open Sans', sans-serif;
   font-size: 0.7rem;
   font-weight: 1.5rem;
 }
-.flower-featured-picture{
+.flower-featured-picture-container{
    display: flex;
-   justify-content: center;
-   width: 70%;
+   justify-content:center;
+   width:70%;
    gap: 10px;
    margin-top: 20px;
    text-align: center;
@@ -78,8 +78,9 @@ font-family: 'Open Sans', sans-serif;
 .flower-featured-pic-one{
    border-radius: 300px 300px 0px 0px;
    background: rgba(167, 33, 98, 0.15);
-   padding: 35px;
-   padding-bottom: 0px;
+   padding: 35px; 
+   padding-bottom:0px;
+   
 }
 .flower-featured-pic-two{
    border-radius: 300px 300px 0px 0px;
@@ -93,7 +94,7 @@ font-family: 'Open Sans', sans-serif;
    padding: 35px;
    padding-bottom: 0px;
 }
-.flower-featured-picture{
+.flower-featured-picture-container{
    margin-top: 40px;
 }
 .pink-flower{
@@ -178,6 +179,32 @@ font-family: 'Open Sans', sans-serif;
    padding: 10px 20px;
   margin-top:20px;
 }
+.instagram-img{
+   height:200px;
+   width:180px;
+}
+.instagram-picture-container{
+   display: flex;
+   gap:10px;
+   justify-content:center;
+   width: 70%;
+   margin-left:190px;
+   border-radius: 5px;
+   margin-top:40px;
+}
+.instagram-text-container{
+   margin-top:65px;
+}
+.instagram-title{
+   text-align: center;
+}
+.instagram-paragraph{
+   text-align: center;
+   font-size:0.7rem;
+   font-weight:1rem;
+   margin-top:30px;
+}
+
 
    
    
